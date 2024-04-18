@@ -11,6 +11,7 @@ Library: D:\kevin\Uni\VR Project\VR-project\Art Gallary\Temp\BurstOutput\tempbur
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.XR.OpenXR.Features.ConformanceAutomation;
+--assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.XR.OpenXR.Features.MockRuntime;
@@ -154,6 +155,7 @@ Library: D:\kevin\Uni\VR Project\VR-project\Art Gallary\Temp\BurstOutput\tempbur
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.XR.OpenXR.Features.ConformanceAutomation;
+--assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.XR.OpenXR.Features.MockRuntime;
