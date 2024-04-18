@@ -36,13 +36,15 @@ public class GameMenuManager : MonoBehaviour
 
     void Update()
     {
+        // Check if the ShowButton action was pressed this frame
         if (ShowButton.action.WasPressedThisFrame())
         {
+            // Toggle the menu on and off
             menu.SetActive(!menu.activeSelf);
-
             menu.transform.position = head.position + new Vector3(head.forward.x, 0, head.forward.z).normalized * spawnDistance;
         }
         
+        // Rotate the menu to face the player
         menu.transform.LookAt(new Vector3(head.position.x, menu.transform.position.y, head.position.z));
         menu.transform.forward *= -1;
 
