@@ -63,7 +63,7 @@
                     "name": "Eye Gaze Is Tracked",
                     "type": "Button",
                     "id": "ea26ba43-844b-4585-817a-2f124b571813",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -1001,7 +1001,7 @@
                 {
                     "name": "",
                     "id": "21c692bd-11e7-432c-a776-2f2319264507",
-                    "path": "<XRController>{LeftHand}/triggerPressed",
+                    "path": "<OculusTouchController>{LeftHand}/start",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
