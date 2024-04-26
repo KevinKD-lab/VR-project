@@ -61,7 +61,7 @@ public class GameMenuManager : MonoBehaviour
     }
 
     // Function to be called when the exit button is clicked
-    void ExitGame()
+    public void ExitGame()
     {
         Debug.Log("Game exited!");
         // Exit the game
