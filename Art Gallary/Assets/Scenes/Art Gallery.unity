@@ -512,7 +512,7 @@ MonoBehaviour:
   startButton: {fileID: 0}
   exitButton: {fileID: 1685186907}
   settingsButton: {fileID: 0}
-  backButton: {fileID: 1685186907}
+  backButton: {fileID: 0}
   canvasOne: {fileID: 0}
   canvasTwo: {fileID: 0}
   menu: {fileID: 506115815}
