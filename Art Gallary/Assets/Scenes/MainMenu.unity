@@ -2077,6 +2077,21 @@ MonoBehaviour:
   backButton: {fileID: 2125766061}
   canvasOne: {fileID: 574620842}
   canvasTwo: {fileID: 918021346}
+  menu: {fileID: 0}
+  ShowButton:
+    m_UseReference: 0
+    m_Action:
+      m_Name: Show Button
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 132da513-5421-422e-96c8-9b925076e91a
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: 0}
+  head: {fileID: 0}
+  spawnDistance: 2
 --- !u!4 &1381346006
 Transform:
   m_ObjectHideFlags: 0
@@ -2108,6 +2123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   volumeSlider: {fileID: 2033517495}
   musicSource: {fileID: 1859786810}
+  soundOrigin: {fileID: 0}
 --- !u!1 &1562050900
 GameObject:
   m_ObjectHideFlags: 0
